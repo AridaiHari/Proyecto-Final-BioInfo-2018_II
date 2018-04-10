@@ -1,6 +1,6 @@
-##Proyecto final BionfoRepro-2018II
+## Proyecto final BionfoRepro-2018II
 
-####Avance 1
+#### Avance 1
 
 **Tipo de datos:** Datos genómicos desmultiplexeados y filtrados de peces coralinos *Acanthurus* obtenidos de Dryad.
 

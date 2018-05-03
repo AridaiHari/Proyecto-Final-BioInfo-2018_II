@@ -25,11 +25,11 @@ El trabajo se encuentra organizado en los siguientes *directorios*:
 - - -
 #### 1.Filtrado de calidad
 
-Pese a que las secuencias descargadas se reportan como filtradas y desmultiplexeadas, se verificó la calidad de las secuencias usando la imagen de ==Biocontainers *Fastqc*==. Todas las muestras, tanto de <span style="color:purple">*A. reversus*</span> como de <span style="color:red">*A. olivaceus*</span> presentaron las bases **3 y 4** fuera de los estándares de calidad, por lo que fueron eliminadas utilizando ==Biocontainers *fastxtools*==. Posiblemente esto se deba a que los adaptadores no fueron removidos.
+Pese a que las secuencias descargadas se reportan como filtradas y desmultiplexeadas, se verificó la calidad de las secuencias usando la imagen de Biocontainers *Fastqc*. Todas las muestras, tanto de <span style="color:purple">*A. reversus*</span> como de <span style="color:red">*A. olivaceus*</span> presentaron las bases **3 y 4** fuera de los estándares de calidad, por lo que fueron eliminadas utilizando Biocontainers *fastxtools*. Posiblemente esto se deba a que los adaptadores no fueron removidos.
 
 - - -
 #### 2. Ensamble con genoma de referencia
-Actualmente nos encontramos realizando un ensamblado con **genoma de referencia**. El genoma obtenido corresponde a <span style="color:green">*Sebastes steindachneri*</span>, el cual pertenece al mismo orden de peces. Es la especie mas cercana con genoma disponible. Las relaciones filogenéticas pueden apreciarse en la [Filogenia](https://github.com/AridaiHari/Proyecto-Final-BioInfo-2018_II/blob/master/Filogenia%20Sebastes.png). El ensamblado se realizará con ==*ipyrad*==. El software y sus dependencias han sido instaladas con éxito.
+Actualmente nos encontramos realizando un ensamblado con **genoma de referencia**. El genoma obtenido corresponde a <span style="color:green">*Sebastes steindachneri*</span>, el cual pertenece al mismo orden de peces. Es la especie mas cercana con genoma disponible. Las relaciones filogenéticas pueden apreciarse en la [Filogenia](https://github.com/AridaiHari/Proyecto-Final-BioInfo-2018_II/blob/master/Filogenia%20Sebastes.png). El ensamblado se realizará con *ipyrad*. El software y sus dependencias han sido instaladas con éxito.
 
 - - -
 ### Pasos siguientes:

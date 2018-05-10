@@ -1,9 +1,9 @@
-| ID| Sitio de base de datos|Sitio por numeración
-|--------|--------|
-|Clean_AOL266| Kiritimati|Kiritimati
-|Clean_AOL265 |Kiritimati|Kiritimati
-|Clean_AOL264 | Kiritimati|Kiritimati
-|Clean_AOL262 | Kiritimati|Kiritimati
+| ID | Sitio de base de datos| Sitio por numeración |
+|:--------:|--------|
+| Clean_AOL266 | Kiritimati | Kiritimati |
+|Clean_AOL265 |Kiritimati |Kiritimati|
+|Clean_AOL264 | Kiritimati |Kiritimati|
+|Clean_AOL262 | Kiritimati |Kiritimati
 |Clean_AOL261 | Kiritimati |Kiritimati
 |Clean_AOL259 | Kiritimati |Kiritimati
 |Clean_AOL258 | ? |Kiritimati 
